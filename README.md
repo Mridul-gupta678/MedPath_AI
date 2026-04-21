@@ -11,18 +11,18 @@ MedPath is an intelligent healthcare platform that connects patients with verifi
 
 ## Features
 
-### For Patients
+### For Patients:
 *   **🤖 AI Health Assessment**: Describe your symptoms to receive an instant, AI-powered preliminary evaluation and risk analysis.
 *   **🩺 Find Specialists**: Discover nearby doctors and hospitals tailored to your specific health needs.
 *   **📅 Instant Booking**: Schedule appointments directly with doctors without phone calls.
 *   **💬 Secure Communication**: Chat and video consults (coming soon) with your healthcare providers.
 
-### For Doctors
+### For Doctors:
 *   **🏥 Practice Management**: Efficiently manage appointments and patient queries.
 *   **🤝 Patient Connection**: Connect with new patients matching your specialty.
 *   **📊 Dashboard**: Comprehensive view of your schedule and patient history.
 
-### For Admins
+### For Admins:
 *   **🛡️ User & Doctor Management**: Verify doctors, manage user accounts, and handle platform access.
 *   **🧠 AI Diagnosis Review**: Monitor and review AI-generated health assessments for quality assurance.
 *   **📈 Analytics & Audit Logs**: Track platform usage statistics and view detailed system activity logs.
@@ -78,7 +78,7 @@ To learn more about Next.js, take a look at the following resources:
 
 ## 👨💻 Author
 
-**Mridul Gupta**
+**Mridul Gupta** -
 Full-Stack Developer
 Passionate about real-world scalable applications.
 
